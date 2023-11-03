@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smontoyah
-- 👀 I’m interested in Applied physics, scientifics instrumentation, DAQs and embedded systems
+- 👀 I’m interested in Applied physics, scientific instrumentation, DAQs and embedded systems
 - 🌱 I’m currently learning adaptive computing using FPGA
 - 💞️ I’m looking to collaborate on applied physics projects
 - 📫 smontoyah99@gmail.com
